@@ -1,0 +1,4 @@
+msnfjson
+==========
+
+/?code=#{ticker}
